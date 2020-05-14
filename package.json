@@ -18,6 +18,6 @@
 		"start": "npm run gulp",
 		"build:prod": "npm run gulp prod"
 	},
-	"author": "Hugo Estevez + Alberto García",
+	"author": "Hugo Estévez + Alberto García",
 	"license": "MIT"
 }
