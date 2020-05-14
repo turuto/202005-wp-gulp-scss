@@ -18,6 +18,6 @@
 		"start": "npm run gulp",
 		"build:prod": "npm run gulp prod"
 	},
-	"author": "Sivsa",
+	"author": "Hugo Estevez + Alberto García",
 	"license": "MIT"
 }
