@@ -1,2 +1,3 @@
 # 202005-wp-gulp-scss
-A gulpfile that watch and compiles scss from another folder. Useful fro creating WordPress Themes
+Created by Hugo Estevez Rocha (https://github.com/Hugoer) and Alberto García Ariza (https://github.com/turuto)
+A gulpfile that watch and compiles scss from another folder. Useful for creating WordPress Themes
